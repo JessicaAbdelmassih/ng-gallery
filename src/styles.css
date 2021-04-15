@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    font-family: 'fantasy';
+    color: rgb(175, 161, 161);
+    background-color: #1d1c1c;
+  }
+  
+  .main-content{
+    padding-top: 60px;
+    color: #333;
+  }
+  
+  /* h1 h2 h3 h4 h5{
+    font-family: 'Monteserrat', sans-serif;
+    color: #333;
+  } */
